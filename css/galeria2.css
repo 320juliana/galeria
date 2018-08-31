@@ -1,0 +1,78 @@
+*{
+
+}
+div{
+	height: 120px;
+	width: 120px;
+	margin-left :50px;
+	float: left;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #3DFF21;
+	border: 5px dotted #3020FF;
+
+
+}
+body{
+	background-image: url(../img/ac.jpeg);
+
+}
+.imagen1{
+	background-image: url(../img/back_mantel.jpeg);
+}
+.imagen2{
+	background-image: url(../img/back_mantel.jpeg);
+	background-clip: content-box;
+}
+.imagen3{
+	background-image: url(../img/back_mantel.jpeg);
+	background-size: 100% 100%;
+
+}
+.imagen4{
+	background-image: url(../img/back_mantel.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-origin: content-box;
+
+}
+.imagen5{
+	background-image: url(../img/dh.jpeg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+}
+.imagen6{
+	background-image: url(../img/dh.jpeg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-origin: content-box;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
